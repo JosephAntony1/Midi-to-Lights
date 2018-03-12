@@ -5,3 +5,5 @@
 This code uses hairless serial monitor to send signals from a controller either physical or a loopback from a software controller and using this information reactively creates various animations on a string of lights.
 
 This is just proof of concept, but once the midi data is in the arduino, you can control anything with it! 
+
+Example: https://www.youtube.com/watch?v=8qefByOC1Js
